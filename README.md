@@ -8,19 +8,13 @@
   </h1>
 </div>
 <h2>
-  About me 
-  <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif?cid=790b76115ozm5retj50g0qa5bnmyypj03clfyiawimre0f0u&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px"/>  
+  About me
+  <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif?cid=790b76115ozm5retj50g0qa5bnmyypj03clfyiawimre0f0u&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px"/>    
 
   
-  🛠️ Навыки и технологии:  
+🛠️ Навыки и технологии:    
 Языки программирования:  C#, C++  
-
 Игровые движки: Unity  
-
 Инструменты: Git, Visual Studio, Blender  
-
 Другое: MS SQL SERVER, MongoDB, GitHub, MS Office   
-
-
-
 </h2>
