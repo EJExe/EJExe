@@ -8,46 +8,46 @@
   </h1>
 </div>
 <h2>
-About me
+  About me
   <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif?cid=790b76115ozm5retj50g0qa5bnmyypj03clfyiawimre0f0u&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px"/> <br>   
-Я — студент 3 курса по направлению "Программная инженерия: разработка программного обеспечения". Учусь создавать качественное ПО и игры, активно развиваюсь в сфере разработки и изучаю новые технологии.
+  I am a 3rd-year student in the field of "Software Engineering: Software Development." I am learning to create high-quality software and games, actively developing my skills in programming and exploring new technologies.
   
----
-
-### 🛠️ Навыки и технологии:
-- **Языки программирования**:  
-  - C# (Unity, ASP.NET, WinForms, Entity Framework)  
-  - C++ (алгоритмы и структуры данных)  
-- **Игровые движки**:  
-  - Unity (2D/3D игры, анимации, физика, UI)  
-- **Инструменты разработки**:  
-  - Git (работа с ветками, CI/CD)  
-  - Visual Studio (написание и отладка кода)  
-  - Blender (базовый уровень, создание 3D-моделей)  
-- **Базы данных**:  
-  - MS SQL Server (проектирование и запросы)  
-  - MongoDB (NoSQL, CRUD-операции)  
-- **Другое**:  
-  - GitHub (хостинг проектов)  
-  - MS Office (работа с документами)
+  ---
+  
+  ### 🛠️ Skills and Technologies:
+  - **Programming Languages**:  
+    - C# (Unity, ASP.NET, WinForms, Entity Framework)  
+    - C++ (algorithms and data structures)  
+  - **Game Engines**:  
+    - Unity (2D/3D games, animations, physics, UI)  
+  - **Development Tools**:  
+    - Git (branching, CI/CD)  
+    - Visual Studio (coding and debugging)  
+    - Blender (basic level, 3D modeling)  
+  - **Databases**:  
+    - MS SQL Server (design and queries)  
+    - MongoDB (NoSQL, CRUD operations)  
+  - **Other**:  
+    - GitHub (project hosting)  
+    - MS Office (document management)
     
----
-
-### 🚀 Чем занимаюсь:
-- **Разработка игр**: Создаю игры на Unity, изучаю работу с графикой, анимациями и физикой.  
-- **Изучение алгоритмов**: Решаю задачи на платформах вроде LeetCode, чтобы улучшить навыки в алгоритмах и структурах данных.  
-- **Работа с базами данных**: Проектирую и разрабатываю базы данных для учебных и pet-проектов.  
-- **Учебные проекты**: Участвую в командных проектах, где применяю свои знания на практике.  
-
-### 💼 Личные качества:
-- **Ответственность**: Всегда довожу задачи до конца, даже если они требуют дополнительных усилий.
-- **Обучаемость**: Быстро осваиваю новые технологии и инструменты.
-- **Командная работа**: Умею работать в команде, находить компромиссы и распределять задачи.
-- **Креативность**: Люблю находить нестандартные решения для сложных задач.
-- **Тайм-менеджмент**: Умею эффективно планировать своё время и расставлять приоритеты.
-
-### 💡 Хобби и интересы:
-- Увлекаюсь игровым дизайном.
-- Люблю изучать новые технологии и инструменты.
-- В свободное время играю в видеоигры и анализирую их геймдизайн.
+  ---
+  
+  ### 🚀 What I Do:
+  - **Game Development**: I create games using Unity, studying graphics, animations, and physics.  
+  - **Algorithm Study**: I solve problems on platforms like LeetCode to improve my algorithm and data structure skills.  
+  - **Database Work**: I design and develop databases for academic and personal projects.  
+  - **Academic Projects**: I participate in team projects where I apply my knowledge in practice.  
+  
+  ### 💼 Personal Qualities:
+  - **Responsibility**: I always complete tasks, even if they require extra effort.  
+  - **Learnability**: I quickly learn new technologies and tools.  
+  - **Teamwork**: I work well in teams, find compromises, and delegate tasks effectively.  
+  - **Creativity**: I enjoy finding unconventional solutions to complex problems.  
+  - **Time Management**: I efficiently plan my time and prioritize tasks.  
+  
+  ### 💡 Hobbies and Interests:
+  - I am passionate about game design.  
+  - I love exploring new technologies and tools.  
+  - In my free time, I play video games and analyze their game design.
 </h2>
