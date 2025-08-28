@@ -23,10 +23,8 @@ I am a 4th-year Software Engineering student specializing in Software Developmen
 *   **IDEs & Tools**: Visual Studio, Visual Studio Code
 
 ### 📈 GitHub Stats
-
-(Замените `your-username` на свой никнейм. Это необязательно, но многие любят)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EJExe&show_icons=true&theme=default" alt="Your GitHub Stats" />
+  <!---<img src="https://github-readme-stats.vercel.app/api?username=EJExe&show_icons=true&theme=default" alt="Your GitHub Stats" /> -->
   <!--- Можно добавить вторую карточку с самыми используемыми языками -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EJExe&layout=compact" 
 </p>
