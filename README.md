@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
-  <h1>Hello, I'm [Your Name]</h1>
+  <h1>Hello</h1>
 </div>
 
 ---
