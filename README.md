@@ -21,14 +21,11 @@ I am a 4th-year Software Engineering student specializing in Software Developmen
 *   **Databases**: MS SQL Server, MongoDB, PostgreSQL
 *   **Version Control & CI/CD**: Git, GitHub
 *   **IDEs & Tools**: Visual Studio, Visual Studio Code
+  
+<!--### 📫 How to Reach Me
 
-### 📈 GitHub Stats
-<p align="center">
-  <!---<img src="https://github-readme-stats.vercel.app/api?username=EJExe&show_icons=true&theme=default" alt="Your GitHub Stats" /> -->
-  <!--- Можно добавить вторую карточку с самыми используемыми языками -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EJExe&layout=compact" 
-</p>
-
+*   **Email:** youremail@example.com
+*   **LinkedIn:** [Your Name](https://www.linkedin.com/in/yourprofile/)-->
 ---
 <div align="center">
   <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif?cid=790b76115ozm5retj50g0qa5bnmyypj03clfyiawimre0f0u&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100">
